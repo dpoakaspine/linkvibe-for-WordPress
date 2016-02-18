@@ -144,7 +144,7 @@ function wpet_validate_options($input) {
 
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = PucFactory::buildUpdateChecker(
-    'http://linkvibe.de/api/getWPPluginVersion',
+    'https://raw.githubusercontent.com/dpoakaspine/linkvibe-for-WordPress/master/version.json',
     __FILE__
 );
 
