@@ -1,8 +1,8 @@
 {
     "name" : "linkvibe for Wordpress",
-    "version" : "1.2",
+    "version" : "1.1",
     "author" : "Stefan Böttcher",
-    "download_url" : "http://linkvibe.de/wordpress/linkvibe.zip",
+    "download_url" : "https://github.com/dpoakaspine/linkvibe-for-WordPress/archive/master.zip",
     "sections" : {
         "description" : "Couple fixes. New features!"
     }
