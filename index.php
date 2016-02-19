@@ -4,7 +4,7 @@
 /*
 Plugin Name: linkvibe for WordPress
 Description: Adds an awesome link tracker and site analyzing tool to your WordPress site.
-Version:     1.3
+Version:     1.4
 Author:      Stefan Böttcher
 Text Domain: linkvibe
 */
